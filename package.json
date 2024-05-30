@@ -1,0 +1,15 @@
+{
+  "name": "dayak",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/subastian1998"
+  },
+  "author": "rizkRizky Rizky nur subastian",
+  "license": "ISC"
+}
